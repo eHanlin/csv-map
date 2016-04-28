@@ -6,7 +6,7 @@
 
     <groupId>tw.com.ehanlin</groupId>
     <artifactId>csv-map</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <packaging>jar</packaging>
 
     <name>csv-map</name>
