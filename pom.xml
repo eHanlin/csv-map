@@ -49,7 +49,7 @@
     <distributionManagement>
         <repository>
             <id>bintray</id>
-            <url>https://api.bintray.com/maven/hotdog929/maven/hMongoDB/;publish=1</url>
+            <url>https://api.bintray.com/maven/hotdog929/maven/csv-map/;publish=1</url>
         </repository>
     </distributionManagement>
 
